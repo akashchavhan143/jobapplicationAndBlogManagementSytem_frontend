@@ -1,0 +1,70 @@
+.blogpage-card {
+  margin-bottom: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  padding: 16px;
+}
+
+.blogpage-card-title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.blogpage-card-content {
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 16px 0;
+}
+
+.blogpage-tags {
+  margin: 16px 0;
+}
+
+.blogpage-tag {
+  font-size: 14px;
+  border-radius: 16px;
+  padding: 4px 12px;
+}
+
+.blogpage-actions {
+  display: flex;
+  justify-content: space-between;
+  margin: 16px 0;
+  font-size: 16px;
+  color: #555;
+}
+
+.action-item {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.action-count {
+  margin-left: 4px;
+}
+
+.blogpage-author {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 24px;
+  border-top: 1px solid #eee;
+  padding-top: 16px;
+}
+.blogpage-author-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 16px;
+}
+.author-info {
+  flex: 1;
+  margin-left: 12px;
+}
+
+.follow-btn {
+  font-weight: 500;
+  border-radius: 20px;
+}
