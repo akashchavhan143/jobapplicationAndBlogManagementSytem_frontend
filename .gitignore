@@ -39,3 +39,30 @@ coverage/
 # Next.js / Vite / React Native (if used)
 .next/
 .expo/
+# Compiled class files
+*.class
+
+# Maven / Gradle build output
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / Secrets
+# application-*.yml
+# application-*.properties
+*.env
+
+# Temporary
+*.tmp
